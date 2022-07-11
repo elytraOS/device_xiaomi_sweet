@@ -1,0 +1,21 @@
+[
+  {
+    "remote": "github",
+    "repository": "mrfox2003/vendor_xiaomi_sweet.git",
+    "target_path": "vendor/xiaomi/sweet",
+    "branch": "12"
+  },
+  {
+    "remote": "github",
+    "repository": "vantoman/kernel_xiaomi_sm6150.git",
+    "target_path": "kernel/xiaomi/sweet",
+    "branch": "courbet-12.1"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "PixelOS-Devices/playgroundtc.git",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-playground",
+    "depth": "1",
+    "branch": "15"
+  }
+]
